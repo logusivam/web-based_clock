@@ -4,6 +4,9 @@ This project demonstrates how to create a web-based analog and digital clock usi
 
 ## Demo
 ![Screenshot 2024-05-27 163721](https://github.com/logusivam/Glowing_cirlce/assets/106108501/61059de7-76a1-491b-b614-2f9e74a1874d)
+
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 You can see a live demo of the project [here](https://logusivam.github.io/web-based_clock/).
 
 ## Features
